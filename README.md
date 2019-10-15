@@ -15,8 +15,8 @@ Estas soluciones no están pensadas para el contexto universitario donde el tama
 
 <h4>Solución:</h4>
 Una aplicación para el análisis y proyección de estadísticas, a partir de información histórica, tales como estimado de nuevos estudiantes para el siguiente semestre, estimado de demanda de cursos y estadísticas del comportamiento poblacional (Ej. retiros, incompletos) en una población estudiantil universitaria, de tal manera que los estimados y/o gráficas sean un apoyo de toma de decisiones para los administrativos de la organización, específicamente para los coordinadores.<br>
-<h4>URL video de funcionalidad:<h4>
-  
+<h4>URL video propuesta:<h4>
+https://drive.google.com/file/d/1Dj0Uiy93sI-4UlbtzyRkgd8w621VVuji/view?usp=sharing
 <h4>Clientes objetivos:</h4>
 Los coordinadores de las facultades de diferentes universidades en Bogotá.
 
