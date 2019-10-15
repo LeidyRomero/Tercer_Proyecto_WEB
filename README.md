@@ -31,7 +31,7 @@ Los coordinadores de las facultades de diferentes universidades en Bogotá.
 
 <h4>Instrucciones de uso:</h4>
 <ol>
-  <li>Para usar la aplicación, ingrese en el siguiente link: https://pa-suarezm.github.io/coordinapp</li>
+  <li>Para usar la aplicación, ingrese en el siguiente link: http://coordinapp.herokuapp.com</li>
   <li>Para usar la aplicación, el usuario debe registrarse y posteriormente loguearse, el proceso de registro solo se debe hacer la primera vez.</li>
   <li>Una vez logueado el usuario podra acceder a los diferentes servicios por medio del menu en la parte derecha de la pantalla.</li>
 </ol> 
