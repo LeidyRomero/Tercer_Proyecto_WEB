@@ -57,10 +57,10 @@ Meteor.startup(() => {
         return this.ready();
     }
   });
-  
-  Meteor.publish('courses', function tasksPublication() {
+  /*
+  Meteor.publish('courses', function coursesPublication() {
     return Courses.find({owner: this.userId });
   });
-
+  */
 });
 
